@@ -1,4 +1,3 @@
-streamlit==1.41.1
 absl-py==1.4.0
 Adafruit-Blinka==8.21.0
 adafruit-circuitpython-busdevice==5.2.6
